@@ -1,8 +1,8 @@
 # HoriSEO: Digital Marketing Solutions
 
-This repository contains the code for a website offering digital marketing solutions. The site has been refactored to improve accessibility and maintainability. Below is a breakdown of the project structure and key features. 
+This repository contains the code for a website offering digital marketing solutions. The site has been refactored to improve accessibility and maintainability. Please see the deployed page here: https://catbeckett.github.io/Refactor-For-Accessibility/ 
 
-Please see the deployed page here: https://catbeckett.github.io/Refactor-For-Accessibility/ 
+Below is a breakdown of the project structure and key features. 
 
 ## HTML Structure
 
@@ -14,16 +14,6 @@ The HTML structure of the website includes semantic elements and descriptive alt
 - **Benefits Section:** Highlights the benefits of the digital marketing solutions offered, with descriptive images and text.
 - **Footer:** Contains essential information about the company, including a heartfelt message and copyright notice.
 
-## CSS Styling
-
-The CSS file (`style.css`) has been organized and commented to improve readability and maintainability. Key sections include:
-
-- **Universal Styles:** Sets box-sizing, padding, and margin for all elements.
-- **Body and Header Styles:** Defines background color and styling for the header section.
-- **Navigation Styles:** Styles the navigation bar and its components for a clean layout.
-- **Content and Benefits Styles:** Defines the layout and styling for content sections and benefits.
-- **Specific Section Styles:** Custom styling for individual sections like Search Engine Optimization, Online Reputation Management, and Social Media Marketing.
-- **Footer Styles:** Defines the appearance of the footer section with appropriate padding and alignment.
 
 ## Accessibility Improvements
 
@@ -34,13 +24,11 @@ The CSS file (`style.css`) has been organized and commented to improve readabili
 
 ## How to Use
 
-To view the website, simply open the `index.html` file in a web browser. The CSS styles are linked via the `style.css` file located in the `assets/css` directory.
-
-Feel free to explore the code and make further improvements as needed to enhance accessibility and maintainability.
+To view the website, simply open the `index.html` file in a web browser. The CSS styles are linked via the `style.css` file located in the `assets/css` directory. Feel free to explore the code and make further improvements as needed to enhance accessibility and maintainability.
 
 ## Credits
 
-This project was refactored by Cat for the purpose of improving accessibility and meeting industry standards. The original code was provided by Edx.
+This project was refactored for the purpose of improving accessibility and meeting industry standards. The original code was provided by Edx.
 
 ## License
 
